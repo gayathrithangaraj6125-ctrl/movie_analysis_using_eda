@@ -77,7 +77,7 @@ Created 7 charts to find patterns in the data
 ## 📈 Charts Generated
 
 | Chart | Description |
-
+|---|---|
 | Chart 1 | Distribution of Movie Ratings |
 | Chart 2 | Top 10 Highest Rated Movies |
 | Chart 3 | Top 10 Most Popular Movies |
@@ -155,13 +155,3 @@ Aspiring Data Scientist
 
 ## ⭐ If you found this project helpful please give it a star on GitHub!
 ```
-
----
-
-## 📌 How to Add This to Your Project
-
-In VS Code terminal run:
-```
-git add README.md
-git commit -m "Added README file"
-git push
